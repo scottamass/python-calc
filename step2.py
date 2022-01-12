@@ -45,9 +45,10 @@ with open('test.txt','r') as file:
     print(awn)    
 
 
-    #this is a note 
-    #this is also a note 
-        
+
+    # calc ^2 5    
+
+       
         
 
     
