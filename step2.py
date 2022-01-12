@@ -46,9 +46,9 @@ with open('test.txt','r') as file:
 
 
 
-    # calc ^2 5    
+    # calc 2%5
+        
 
-       
         
 
     
