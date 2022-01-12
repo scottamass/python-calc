@@ -43,6 +43,9 @@ with open('test.txt','r') as file:
         awn+=awn
 
     print(awn)    
+
+
+    #this is a note 
         
         
 
