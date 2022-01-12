@@ -45,8 +45,10 @@ with open('test.txt','r') as file:
     print(awn)    
 
 
+
     # calc 2%5
         
+
         
 
     
