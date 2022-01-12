@@ -43,7 +43,9 @@ with open('test.txt','r') as file:
         awn+=awn
 
     print(awn)    
-        
+
+
+    # calc ^2 5    
         
 
     
