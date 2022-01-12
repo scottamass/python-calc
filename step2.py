@@ -46,6 +46,7 @@ with open('test.txt','r') as file:
 
 
     #this is a note 
+    #this is also a note 
         
         
 
